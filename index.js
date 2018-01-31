@@ -19,4 +19,4 @@ happyHolidayTo("girak")
 
 happyHolidaysTo("Christmas", "girak")
 
-holidayCountdown(Christmas, 15)
+holidayCountdown("Christmas", 15)
