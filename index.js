@@ -15,6 +15,8 @@ function holidayCountdown(holiday, days) {
   return `It's ${days} until ${holiday}!`
 }
 
+happyHolidayTo(girak)
+
 happyHolidaysTo(Christmas, girak)
 
 holidayCountdown(Christmas, 15)
