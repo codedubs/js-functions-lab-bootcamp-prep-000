@@ -14,3 +14,7 @@ function happyHolidaysTo(holiday, name) {
 function holidayCountdown() {
   return `It's ${days} until ${holiday}!`
 }
+
+happyHolidaysTo(Christmas, girak)
+
+holidayCountdown(15, Christmas)
