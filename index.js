@@ -3,12 +3,14 @@ function happyHolidays() {
   return "Happy holidays!"
 }
 
-function happyHolidaysTo(girak) {
+function happyHolidaysTo(name) {
   return `Happy holidays, ${name}!`
 }
 
-function happyHolidaysTo(Christmas, girak) {
+function happyHolidaysTo(holiday, name) {
   return `Happy ${holiday}, ${name}`
 }
 
-function 
+function holidayCountdown() {
+  return `It's ${days} until ${holiday}!`
+}
